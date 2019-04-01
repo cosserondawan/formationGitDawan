@@ -9,3 +9,4 @@ Understanding git and github by practice
 
 **Ajout ligne Claude**
 **Ajout ligne Claude2**
+#modif de thierry
