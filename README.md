@@ -5,4 +5,9 @@ Understanding git and github by practice
 
 **Je suis une phrase en gras**
 
-**Ajout de contenu**
+## Ajout de contenu
+
+* Ligne en italique *
+
+
+
