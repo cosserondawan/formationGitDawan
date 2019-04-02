@@ -5,8 +5,11 @@ Understanding git and github by practice
 
 **Je suis une phrase en gras**
 
-**Ajout de contenu**
+## Ajout de contenu
+
 
 **Ajout ligne Claude**
-**Ajout ligne Claude2**
+
+*Ajout ligne Claude2*
+
 #modif de thierry
